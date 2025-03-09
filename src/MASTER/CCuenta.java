@@ -1,3 +1,4 @@
+package MASTER;
 /**
  * Clase que representa una cuenta bancaria.
  * Permite realizar operaciones de ingreso y retiro.
